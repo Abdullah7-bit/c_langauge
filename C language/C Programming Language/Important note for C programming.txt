@@ -1,0 +1,27 @@
+Key Points for C Programming Language:
+
+/ = THIS IS FORWARD SLASH
+; = end of command
+
+
+COMMENT:
+
+commnet liknay k liye 2 forward slash lagany zaroori hy 
+aur agar comment bada ha to youn likhay /* Aur yaha ayga Comment */
+
+Data Types (yay function sy pehlay likhi jati hay):
+
+There are 5 data types
+1. char   (Character)
+2. int    (integer i.e number 1,2,3,4 etc)
+3. float  ()
+4. double ()
+5. void   ()
+
+Place holder is different for different Data Types:
+
+%d for digit 
+%f for float or double 
+%s for string 
+
+WHAT is string = collection of character s

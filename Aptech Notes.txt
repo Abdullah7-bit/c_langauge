@@ -1,0 +1,111 @@
+-----------------------------------------------------------
+Loop Notes:
+
+` We use loop for iterative works.
+
+
+` If data has a limit we use 'while loop'.
+` If data limit is not set , we use 'for loop'.
+-----------------------------------------------------------
+C language notes:
+
+` Pointer Synbols (* &)
+` Pointer Address (% X)
+
+
+Filehandling Methods:
+
+1. fopen   - Open file
+2. fclose  - Close file
+3. fprintf - print that statement in the file
+
+Modes:
+
+` r = read
+` w = write
+` a = append (re-write) 
+
+Excel extension that is use in file handling od c language is '.xls'
+-----------------------------------------------------------
+
+Wordpress notes:
+
+Initilization:
+
+1. create database in phpmyadmin
+2. copy folder of wordpress that we download in htdocs website folder
+3. goto url localhost/websitefodername/wp-admin
+4. Create login info and then login and start building 
+
+
+Some important website:
+
+` themeforest
+` wplocker.com
+` jojo-themes.net
+
+
+downloaded plugins must be compatibe with versions.
+-----------------------------------------------------------
+SQL notes:
+
+` operator:
+
+` LIKE 
+syntax
+
+` SELECT _____  FROM __________
+	 range       table_name
+
+  WHERE  ___________ LIKE '%a%'
+	 Column_name       % condition of before and After
+
+
+
+View = Virtual table -> cinnected with original table
+
+
+UNIONS:
+
+rule:
+` datatype should be same
+
+types:
+` union all
+` union simple
+
+usage:
+used for analyzing the data
+
+identity 		( 1  ,  1  )
+used for increment	 seed  pair
+
+
+` first we design dbms then build software
+
+Questions:
+
+` What is difference between Decimal and integers?
+` Hum nai aik database desgin krlia aur usme bohut sa data bhi stored hogaya Ab agar hum iss mai naya column uss mai naya column add kry to uss column mai data kaha sy add hona shuru hoga?
+` kya groupby ka use krny k liye join ka hona zarori hay?
+
+Keywords in dbms:
+
+` DROP = delete table/db
+` UNIQUE = always store unique value
+` CHECK = Recruitment conditioning
+` DEFAULT = repeat once given value in the column
+
+ getdata(), db function
+ 
+Load balancing is a concept that used to check the health of database
+
+Alter table and ADD / DROP  query runs combine
+-----------------------------------------------------------
+
+
+
+
+
+
+-----------------------------------------------------------

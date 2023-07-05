@@ -1,0 +1,25 @@
+---------------------- 
+    Students Records   
+---------------------- 
+Roll # : 1001 
+Student Name : Noman 
+Class : 5th 
+Fees : 5000 
+Branch : Korangi 
+Roll # : 1002 
+Student Name : Kamran 
+Class : 5th 
+Fees : 5000 
+Branch : Korangi 
+
+Roll # : 1003 
+Student Name : Ali 
+Class : 5th 
+Fees : 5000 
+Branch : Korangi 
+
+Roll # : 1003 
+Student Name : Fruit 
+Class : 7th 
+Fees : 3000 
+Branch : Landhi 
