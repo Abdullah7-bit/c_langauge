@@ -15,27 +15,27 @@ int main()
     char tname[2];
     char frname[2];
     char ftname[2];
-    
+
     printf("enter First letter: ");
-    scanf("%s",fname);
-    
+    scanf("%s", fname);
+
     printf("enter Second letter: ");
-    scanf("%s",sname);
-    
+    scanf("%s", sname);
+
     printf("enter Third letter: ");
-    scanf("%s",tname);
-    
+    scanf("%s", tname);
+
     printf("enter Fourth letter: ");
-    scanf("%s",frname);
-    
+    scanf("%s", frname);
+
     printf("enter Fifth letter: ");
-    scanf("%s",ftname);
-    
-    printf("\n %s" , fname);
-    printf("\n \t %s" , sname);
-    printf("\n \t \t %s" , tname);
-    printf("\n \t \t \t  %s" , frname);
-    printf("\n \t \t \t \t  %s" , ftname);
+    scanf("%s", ftname);
+
+    printf("\n %s", fname);
+    printf("\n \t %s", sname);
+    printf("\n \t \t %s", tname);
+    printf("\n \t \t \t  %s", frname);
+    printf("\n \t \t \t \t  %s", ftname);
 
     return 0;
 }
